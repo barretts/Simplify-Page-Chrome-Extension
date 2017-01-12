@@ -1,0 +1,23 @@
+{
+  "name": "Simplify Page",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Open the current tab using Chrome's DOM distiller.",
+  "icons": {
+    "518": "images/icon-518.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "scripts": [
+      "scripts/background.js"
+    ]
+  },
+  "browser_action": {
+    "default_icon": {
+      "518": "images/icon-518.png"
+    }
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

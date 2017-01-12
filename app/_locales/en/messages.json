@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "simplify-page",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "execute Chrome DOM-Distiller to simplify-page for printing",
+    "description": "The description of the application"
+  }
+}
